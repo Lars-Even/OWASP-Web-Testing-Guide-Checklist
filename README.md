@@ -1,5 +1,5 @@
 # OWASP-Web-Testing-Guide-Checklist
-This checklist is based on the OWASP Web Security Testing Guide v4.2 and is designed for tracking tasks during a web application security assessment.
+This checklist is based on the OWASP Web Security Testing Guide v4.2 and is designed for tracking tasks during a web application security assessment. It will be continously updates as the OWASP guide gets updated.
 
 
 ### 1. Information Gathering
